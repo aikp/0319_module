@@ -1,7 +1,7 @@
 //引入模块
-let module1 = require('./module1')
-let module2 = require('./module2')
-let module3 = require('./module3')
+let module1 = require('./modules/module1')
+let module2 = require('./modules/module2')
+let module3 = require('./modules/module3')
 
 //引入第三方库
 let uniq = require('uniq')
